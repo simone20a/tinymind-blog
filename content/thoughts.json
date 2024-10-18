@@ -1,7 +1,7 @@
 [
   {
     "id": "1729250016124",
-    "content": "Le vie da percorrere per poter progredire con il progetto di ricerca sono essenzialmente due : \n\n- Progredire con lo sviluppo del framework per sviluppare e creare modelli ASM, in questo modo, avendo a disposizione un sistema piú affidabile per la creazione di modelli di smart contracts. Migliorare la mappatura al model checker NuSMV (*magari attraverso l'uso dell'esecuzione simbolica*);\n\n- Progredire con l'approfondimento dell'esecuzione simbolica per Ethereum (bytecode o Solidity) e una possibile mappatura diretta ad un model checker;\n\n- Cercare di alleggerire il modello e capire cosa renda cosí pesante la mappatura a NuSMV.",
+    "content": "Le vie da percorrere per poter progredire con il progetto di ricerca sono essenzialmente due : \n\n- Progredire con lo sviluppo del framework per sviluppare e creare modelli ASM, in questo modo, avendo a disposizione un sistema piú affidabile per la creazione di modelli di smart contracts. Migliorare la mappatura al model checker NuSMV (**magari attraverso l'uso dell'esecuzione simbolica**);\n\n- Progredire con l'approfondimento dell'esecuzione simbolica per Ethereum (bytecode o Solidity) e una possibile mappatura diretta ad un model checker;\n\n- Cercare di alleggerire il modello e capire cosa renda cosí pesante la mappatura a NuSMV.",
     "timestamp": "2024-10-18T11:13:36.124Z"
   },
   {
