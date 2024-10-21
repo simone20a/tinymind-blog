@@ -1,5 +1,10 @@
 [
   {
+    "id": "1729517129162",
+    "content": "Dopo aver fatto alcune prove, sono arrivato ad analizzare la versione flattened del modello, sia del mio che del modello estratto dalla tesi. \nSi nota subito che il modello flattened estratto dalla tesi presenta un livello di annidamento molto più basso rispetto a al mio modello flattened.\n*Il problema potrebbe essere il numero di chiamate a macro call rule, il quale crea ripetute let a divide le condition rules*",
+    "timestamp": "2024-10-21T13:25:29.162Z"
+  },
+  {
     "id": "1729415364141",
     "content": "Per la verifica viene utilizzato effettivamente NuSMV, non viene citato Proverif per la verifica del modello. \n\nIl modello si presenta effettivamente piú complicato di quello riguardando il mio progetto di ricerca, presenta funzioni monitored, funzioni con domini Prod multipli. Anche le rule si presentano con molti branch di esecuzione.",
     "timestamp": "2024-10-20T09:09:24.141Z"
