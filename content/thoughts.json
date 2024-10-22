@@ -1,5 +1,10 @@
 [
   {
+    "id": "1729597931993",
+    "content": "Un altro particolare che é possibile notare é che nel mio modello sono presenti molto update rules non banali alle funzioni, con operatori matematici e logici, nel modello estratto dalla tesi quasi tutte le update rules sono elementari limitandosi ad assegnare solo un valore.",
+    "timestamp": "2024-10-22T11:52:11.993Z"
+  },
+  {
     "id": "1729517129162",
     "content": "Dopo aver fatto alcune prove, sono arrivato ad analizzare la versione flattened del modello, sia del mio che del modello estratto dalla tesi. \nSi nota subito che il modello flattened estratto dalla tesi presenta un livello di annidamento molto più basso rispetto a al mio modello flattened.\n*Il problema potrebbe essere il numero di chiamate a macro call rule, il quale crea ripetute let a divide le condition rules*",
     "timestamp": "2024-10-21T13:25:29.162Z"
