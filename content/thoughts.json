@@ -1,7 +1,7 @@
 [
   {
     "id": "1729597931993",
-    "content": "Un altro particolare che é possibile notare é che nel mio modello sono presenti molto update rules non banali alle funzioni, con operatori matematici e logici, nel modello estratto dalla tesi quasi tutte le update rules sono elementari limitandosi ad assegnare solo un valore.",
+    "content": "Un altro particolare che é possibile notare é che nel mio modello sono presenti molte update rules non banali alle funzioni, con operatori matematici, logici e altre funzioni a volte anche nested, nel modello estratto dalla tesi quasi tutte le update rules sono elementari limitandosi ad assegnare solo un valore di un determinato dominio.",
     "timestamp": "2024-10-22T11:52:11.993Z"
   },
   {
