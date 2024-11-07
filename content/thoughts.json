@@ -1,10 +1,5 @@
 [
   {
-    "id": "1729414796431",
-    "content": "*Leggendo la tesi mi sorge lentamente il dubbio che lo scopo non sia fare verifica tramite NuSMV ma utilizzare invece Proverif utilizzando le clausole di horn*",
-    "timestamp": "2024-10-20T08:59:56.431Z"
-  },
-  {
     "id": "1729371172687",
     "content": "Si inizia leggendo la tesi di gente venuta prima di me, che ha creato modelli piú complicati dei miei ma funzionanti. L' obiettivo é quello di trovare qual'é la differenza con i miei modelli e capire perché i miei risultano ugualmente piú complessi da gestire anche se meno complicati.",
     "timestamp": "2024-10-19T20:52:52.687Z"
